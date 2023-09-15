@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:aquamarine;
+}
+
+.container__wrapper {
+    max-width: 70em;
+    margin: 4em auto;
+}
+
+.wrapper__image {}
+
+.mem__img {}
+
+.name {
+    color: blueviolet;
+
+}
+
+.mem__name {
+
+}
